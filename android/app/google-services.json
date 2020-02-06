@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "539442312866",
+    "firebase_url": "https://swiring-e2b09.firebaseio.com",
+    "project_id": "swiring-e2b09",
+    "storage_bucket": "swiring-e2b09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539442312866:android:7753d0ad062cc3ff7789fb",
+        "android_client_info": {
+          "package_name": "com.example.swiring_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539442312866-gt0futt003c97daihp0jnf4o3bnpja1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA20DyLaj0l4Jp1-2hax2D1HG_2RWISbQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539442312866-gt0futt003c97daihp0jnf4o3bnpja1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
